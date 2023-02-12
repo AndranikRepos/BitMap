@@ -10,4 +10,8 @@
 // Добавьте сюда заголовочные файлы для предварительной компиляции
 #include "framework.h"
 
+#include <stack>
+#include <vector>
+#include <iostream>
+
 #endif //PCH_H
